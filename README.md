@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mark-Randria
-- 👀 I’m interested in C++, Python, PHP, C#....
+- 👀 I’m interested in Python, PHP, C#....
 - 🌱 I’m currently learning PHP, Python and JavaScript 
 - 💞️ I’m looking to collaborate on anything that might interest me
 
