@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mark-Randria
-- 👀 I’m interested in Python, PHP, C#....
-- 🌱 I’m currently learning PHP, Python and JavaScript 
-- 💞️ I’m looking to collaborate on anything that might interest me
+I'm learning TypeScript, ReactJS, NodeJS, NextJS and Headless CMS Strapi right now...
+I'm Interested in C#, JavaScript and PHP
 
 <!---
 Mark-Randria/Mark-Randria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
