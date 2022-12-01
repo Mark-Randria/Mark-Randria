@@ -5,5 +5,5 @@ I'm currently studying Software Engineering.
 
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </details>
