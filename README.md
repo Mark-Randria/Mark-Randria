@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm a random guy :D</h1>
-<h3 align="center">A passionate MERN developer from Madagascar</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mark-randria" alt="mark-randria" /></a> </p>
 
-- 🌱 I’m currently learning **Qwik, and flutter**
+- 🌱 I’m currently learning **Some random stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
